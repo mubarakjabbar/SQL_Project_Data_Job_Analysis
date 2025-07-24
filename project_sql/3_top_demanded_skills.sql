@@ -19,5 +19,5 @@ WHERE
 GROUP BY
     skills
 ORDER BY
-    COU DESC
+    COUNT DESC
 LIMIT 5;
