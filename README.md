@@ -66,7 +66,7 @@ Insights from High-Paying Data Analyst Jobs in India (2023):
 - **Finance and consulting firms lead in pay:** Companies like Deutsche Bank and ACA Group are among the top payers, indicating that financial institutions and consulting sectors highly value data analysts.
 - **Full-time roles prevail:** All top-paying positions are full-time, suggesting that high compensation in India’s data analytics field is tightly linked with permanent employment rather than contractual or part-time roles.
 
-![Top paying roles](assets\top_paying_jobs.JPG)
+![Top paying roles](assets/top_paying_jobs.JPG)
 *Bar graph visualizing the salary for the top 10 data analyst roles in India (2023).*
 
 ### 2. Skills Associated with Top-Paying Data Analyst Roles
@@ -107,7 +107,7 @@ Insights from Top-Paying Data Analyst Job Skills (2023):
 - Python is the leading programming language.
 - Visualization tools like Tableau and Power BI appear but are less common.
 - Cloud, ML, and soft tools (e.g., Jira, Confluence) are also present but scattered.
-![Top paying job skills](assets\top_paying_job_skills_visualized.png)
+![Top paying job skills](assets/top_paying_job_skills_visualized.png)
 *Bar graph showing the most in-demand skills among the top 10 highest-paying data analyst roles in India (2023).*
 
 ### 3. Most In-Demand Skills for Data Analyst Roles
